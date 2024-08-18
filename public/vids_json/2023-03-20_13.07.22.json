@@ -1,0 +1,355 @@
+{
+    "videoID": "2023-03-20 13.07.22_女人在飞机上的一番神操作_让你意想不到#电影解说_#搞笑_#短片#宅家dou剧场_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 533,
+            "timeEnd": 2300,
+            "event": "leave",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "seat",
+                "arg2_ins": null,
+                "arg3_ins": "seat",
+                "arg4_ins": "bathroom"
+            },
+            "argM-LOC": "plane",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 2,
+            "timeStart": 2433,
+            "timeEnd": 4467,
+            "event": "lock",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "door",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 3,
+            "timeStart": 4767,
+            "timeEnd": 12467,
+            "event": "take out",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "bread",
+                "arg2_ins": null,
+                "arg3_ins": "in woman's clothes",
+                "arg4_ins": "on the counter"
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 4,
+            "timeStart": 12900,
+            "timeEnd": 15433,
+            "event": "hide",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "nail clipper and card",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 5,
+            "timeStart": 17600,
+            "timeEnd": 19033,
+            "event": "throw",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "trash can ",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 6,
+            "timeStart": 19200,
+            "timeEnd": 24333,
+            "event": "open",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "vent",
+                "arg2_ins": "card",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 7,
+            "timeStart": 24533,
+            "timeEnd": 32533,
+            "event": "scan",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "circuit diagram",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 8,
+            "timeStart": 32933,
+            "timeEnd": 36433,
+            "event": "cut",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "wire",
+                "arg2_ins": "nail clipper",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": "carefully"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 36467,
+            "timeEnd": 55933,
+            "event": "assemble",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "lighter",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 10,
+            "timeStart": 36467,
+            "timeEnd": 42033,
+            "event": "take out",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "cotton",
+                "arg2_ins": null,
+                "arg3_ins": "on woman's leg",
+                "arg4_ins": "in woman's hand"
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 11,
+            "timeStart": 42433,
+            "timeEnd": 43833,
+            "event": "pour ",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "lighter",
+                "arg2_ins": "high heel",
+                "arg3_ins": "top of the shoes",
+                "arg4_ins": "end of the shoes"
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 12,
+            "timeStart": 44200,
+            "timeEnd": 49167,
+            "event": "put ",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "lighter",
+                "arg2_ins": "cotton",
+                "arg3_ins": "in person 1's hand",
+                "arg4_ins": "in the lighter"
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": "hardly"
+        },
+        {
+            "clipID": 13,
+            "timeStart": 49600,
+            "timeEnd": 53533,
+            "event": "drip",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "kerosene",
+                "arg2_ins": "lighter",
+                "arg3_ins": "in the bottle",
+                "arg4_ins": "in the lighter"
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 14,
+            "timeStart": 54233,
+            "timeEnd": 55933,
+            "event": "complete",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "lighter",
+                "arg2_ins": null,
+                "arg3_ins": "in the woman's hand",
+                "arg4_ins": "in the box"
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 15,
+            "timeStart": 56867,
+            "timeEnd": 63367,
+            "event": "seal",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "vent",
+                "arg2_ins": "tape",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 16,
+            "timeStart": 63433,
+            "timeEnd": 67367,
+            "event": "open",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "silver box",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": "happily"
+        },
+        {
+            "clipID": 17,
+            "timeStart": 67933,
+            "timeEnd": 72067,
+            "event": "lit",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "cigarette",
+                "arg2_ins": "lighter",
+                "arg3_ins": "on the counter",
+                "arg4_ins": "in woman's hand"
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 18,
+            "timeStart": 72167,
+            "timeEnd": 75333,
+            "event": "smoke",
+            "instance": {
+                "arg0_ins": "woman with long hair (person 1)",
+                "arg1_ins": "cigarette",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "bathroom",
+            "argM-EXT": "contentedly"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 2,
+            "endClipID": 1,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 3,
+            "endClipID": 2,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 3,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 14,
+            "endClipID": 9,
+            "relationType": "inclusive"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 15,
+            "endClipID": 14,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 11,
+            "startClipID": 16,
+            "endClipID": 15,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 12,
+            "startClipID": 17,
+            "endClipID": 16,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 13,
+            "startClipID": 18,
+            "endClipID": 17,
+            "relationType": "conditional"
+        }
+    ]
+}

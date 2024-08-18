@@ -14,98 +14,104 @@
     <div style="padding:0 40px">
 
       <h1 class="title">VidEvent: A Large Dataset for Event Understanding in Videos</h1>
-      <p class="description">VidEvent contains 1,110 movie recap videos that condense the plot of the original movie
-        into
-        a few minutes. Compared with the original film, these recap videos provide a more concise summary, with clearer
-        events and scenes, and a more obvious logical progression of events. Usually, each caption sentence of the recap
-        video corresponds to one event, but sometimes one event may span multiple captions.
+      <p class="description">
+        VidEvent is a dataset designed to advance the understanding of complex event structures in videos.
+        VidEvent features over 30,000 well-labeled events extracted from 1,110 movie recap videos,
+        with comprehensive annotations including event triggers, arguments, and relationships.
+        This dataset supports tasks such as video event extraction, localization, relation classification, and script
+        event induction. VidEvent include 23,989 events, 80,822 parameters, 17,525 relationships, an average event
+        length of 4.5 seconds, and the annotated event duration accounts for about 96% of the total video duration.
       </p>
       <el-image :src="require('@/assets/poster.png')" fit="contain" style="width: 70%;"></el-image>
       <el-divider></el-divider>
       <div class="statistics">
-        <h1 class="title">Dataset Statistics</h1>
+        <h1 class="title">Dataset Features</h1>
         <el-row>
           <el-col :span="8">
             <div class="grid-content">
+              <img src="../assets/combination.svg" alt="" class="content_img">
               <h2>
                 Event structure completeness
               </h2>
               <p class="content">
-                Compared to existing datasets, VidEvent tends to have significantly more events per video, and the
-                distribution of its labeled event arguments closely aligns with those in Propbank, indicating the
-                completeness of events and arguments in terms of quantity.
+                VidEvent tends to have significantly more events per video, and the
+                distribution of its labeled event arguments closely aligns with those in Propbank. This is crucial for
+                comprehensive event detection and script event induction tasks. where the goal is to capture the full
+                scope of events that constitute the narrative.
               </p>
             </div>
           </el-col>
           <el-col :span="8">
             <div class="grid-content">
+              <img src="../assets/对比条形图.svg" alt="" class="content_img">
+
               <h2>
                 Event hierarchical diversity
               </h2>
               <p class="content">
-                Events within the VidEvent dataset demonstrate a sparse distribution of hyponyms, yet maintain a diverse
-                range of semantic hierarchies. This observation contrasts with other datasets primarily focused on
-                atomic
-                actions.
+                VidEvent showcases significant event hierarchical diversity, capturing the complexity of event
+                structures across multiple levels of abstraction. This diversity is reflected in the dataset's ability
+                to represent events ranging from high-level, overarching actions to more granular, detailed sub-events.
+                It supports tasks like event relation classification and event localization, where understanding the
+                hierarchy and interconnections between events is essential for accurate modeling.
               </p>
             </div>
           </el-col>
           <el-col :span="8">
             <div class="grid-content">
+              <img src="../assets/树形图.svg" alt="" class="content_img">
+
               <h2>
                 Dynamic evolution completeness
               </h2>
               <p class="content">
                 VidEvent provides the annotations for the dynamic evolution of event through the logic relations among
-                different events.Compared with other datasets, VidEvent tends to have more extensive distribution of
+                different events. VidEvent tends to have more extensive distribution of
                 relations in terms of both amount and variety. It has a considerably longer coreference chain,
-                indicating
-                its completeness in event evolution.
+                enabling tasks such as event sequence prediction and
+                dynamic event understanding, where capturing how events unfold and influence each other is critical.
               </p>
             </div>
           </el-col>
         </el-row>
         <el-row class="el-row-number">
-          <el-col :span="6">
+          <el-col :span="8">
             <div class="grid-number">
               <h2>
-                23989
+                Video
               </h2>
               <p class="grid-number-desc">
-                Total number of events
+                Number of Videos: 1,110<br>
+                Average Video Length: 1 minute 22 seconds
               </p>
             </div>
           </el-col>
-          <el-col :span="6">
+          <el-col :span="8">
             <div class="grid-number">
               <h2>
-                17525
+                Event
               </h2>
               <p class="grid-number-desc">
-                Total number of relations
+                Number of Events: 23,989<br>
+                Number of Parameters: 80,822<br>
+                Average Event Length: 4.5 seconds<br>
+                Annotation Coverage: 96%
               </p>
             </div>
           </el-col>
-          <el-col :span="6">
+          <el-col :span="8">
             <div class="grid-number">
               <h2>
-                10.57
+                Relation
               </h2>
               <p class="grid-number-desc">
-                Avg. length of event chain
+                Number of Relationships: 17,525<br>
+                Average Event Chain Length: 10.57<br>
+                Average Coreference Chain Length: 4.67
               </p>
             </div>
           </el-col>
-          <el-col :span="6">
-            <div class="grid-number">
-              <h2>
-                4.5s
-              </h2>
-              <p class="grid-number-desc">
-                Avg. length of event clip
-              </p>
-            </div>
-          </el-col>
+
 
         </el-row>
 
@@ -158,7 +164,7 @@ export default {
 }
 
 .el-row-number {
-  margin: 0px 50px;
+  /* margin: 0px 50px; */
 }
 
 .grid-content {
@@ -166,11 +172,18 @@ export default {
   flex-direction: column;
   justify-content: start;
   /* border-radius: 4px; */
-  min-height: 150px;
+  min-height: 350px;
   margin: 20px 20px;
 }
 
+.content_img {
+  object-fit: scale-down;
+  height: 150px;
+  margin: 30px 0;
+}
+
 .grid-number {
+  height: 130px;
   margin: 50px 30px;
   padding: 30px;
   border-radius: 8px;

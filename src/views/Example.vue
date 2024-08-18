@@ -23,7 +23,8 @@
           </div>
           <div style="display: flex">
             <el-table :data="originalVideoLabel['clip']" @row-click="eventJump" ref="EventsRef" stripe
-              :header-cell-style="{ 'text-align': 'center' }" style="cursor:pointer;margin:0;">
+              :header-cell-style="{ 'text-align': 'center' }" style="cursor:pointer;margin:0;"
+              empty-text="choose a video to show">
               <el-table-column prop="clipID" label="Clip ID" align="center">
               </el-table-column>
               <el-table-column prop="event" label="Event Trigger" align="center">
@@ -45,7 +46,8 @@
             <span style="font-size: 20px;">Event Detail</span>
           </div>
           <div style="display: flex">
-            <el-table :data="eventDetail" ref="EventsRef" stripe :header-cell-style="{ 'text-align': 'center' }">
+            <el-table :data="eventDetail" ref="EventsRef" stripe :header-cell-style="{ 'text-align': 'center' }"
+              empty-text="choose a clip to show">
               <el-table-column prop="argID" label="argID" align="center" width="120">
               </el-table-column>
               <el-table-column prop="value" label="value" align="center">
@@ -64,7 +66,7 @@
           </div>
           <div style="display: flex">
             <el-table :data="originalVideoLabel['relation']" ref="EventsRef" stripe
-              :header-cell-style="{ 'text-align': 'center' }">
+              :header-cell-style="{ 'text-align': 'center' }" empty-text="choose a video to show">
               <el-table-column prop="startClipID" label="Start Clip" align="center" :formatter="startClipFormat">
               </el-table-column>
               <el-table-column prop="endClipID" label="End Clip" align="center" :formatter="endClipFormat">
@@ -117,27 +119,38 @@ export default {
     }
   },
   created() {
+    const vid_list = ['2022-08-17_18.30.00', '2023-03-31_12.57.50', '2023-08-05_06.14.00',
+      '2022-04-21_21.55.31', '2022-09-08_18.14.00', '2023-08-03_18.13.00',
+      '2022-04-23_06.35.00', '2023-03-20_13.07.22', '2023-08-04_18.14.00']
     this.video_ids = (() => {
       const result = []
-      for (let index = 1; index <= 10; index++) {
+      vid_list.forEach(index => {
         result.push({
           value: index,
           label: index.toString()
         });
-      }
+      });
+
       return result
     })()
   },
   methods: {
     onChangeVideoId() {
-      this.$axios({
-        method: 'GET',
-        url: `http://127.0.0.1:5253/api/video/${this.selected_videoid}`,
-      }).then(res => {
-        this.originalVideoLabel = res.data;
-        console.log(res.data);
-        this.playerOptions.sources[0].src = this.originalVideoLabel['video_url'];
-      })
+      fetch(`${process.env.BASE_URL}vids_json/${this.selected_videoid}.json`)
+        // this.$axios({
+        //   method: 'GET',
+        //   url: `http://120.53.235.244:5000/api/video/${this.selected_videoid}`,
+        // }).
+        .then(response => response.json())
+        .then(data => {
+          this.originalVideoLabel = data;
+          let vid_url = 'http://120.53.235.244:80/videos/' + this.selected_videoid + '.mp4'
+          console.log(vid_url)
+          this.playerOptions.sources[0].src = vid_url;
+        }).catch(error => {
+          console.error("Error fetching JSON:", error);
+        });
+
     },
     startClipFormat(row) {
       return row.startClipID + ', ' + this.originalVideoLabel['clip'][row.startClipID - 1]['event'];

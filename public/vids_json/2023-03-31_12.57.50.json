@@ -1,0 +1,583 @@
+{
+    "videoID": "2023-03-31 12.57.50__鼠胆英雄_1_3_胆小如鼠的假警察_竟然成了英雄#电影解说_#鼠胆英雄_#抖音二创激励计划_#喜剧_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 2300,
+            "timeEnd": 5467,
+            "event": "rebuke",
+            "instance": {
+                "arg0_ins": "the man with a earring (person 1)",
+                "arg1_ins": "fat man (person 2）",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 2,
+            "timeStart": 5700,
+            "timeEnd": 7300,
+            "event": "shoot",
+            "instance": {
+                "arg0_ins": "policemen (person 3)",
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": "pistol",
+                "arg3_ins": "table",
+                "arg4_ins": "fat man"
+            },
+            "argM-LOC": "banquet",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 3,
+            "timeStart": 8400,
+            "timeEnd": 10900,
+            "event": "pick ",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "pistol",
+                "arg2_ins": null,
+                "arg3_ins": "floor",
+                "arg4_ins": "chair"
+            },
+            "argM-LOC": "banquet",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 4,
+            "timeStart": 11367,
+            "timeEnd": 12533,
+            "event": "close",
+            "instance": {
+                "arg0_ins": "man in a white hat (person 4）",
+                "arg1_ins": "eyes",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "banquet",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 5,
+            "timeStart": 12967,
+            "timeEnd": 15567,
+            "event": "escape",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "man in a white hat (person 4）",
+                "arg2_ins": "pistol",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "banquet",
+            "argM-EXT": "heavily"
+        },
+        {
+            "clipID": 6,
+            "timeStart": 16467,
+            "timeEnd": 20033,
+            "event": "pull",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "men in suits (person 5)",
+                "arg2_ins": "light net",
+                "arg3_ins": "ceiling",
+                "arg4_ins": "man"
+            },
+            "argM-LOC": "banquet",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 7,
+            "timeStart": 23733,
+            "timeEnd": 25767,
+            "event": "slap",
+            "instance": {
+                "arg0_ins": "man wiht gold necklace (person 6)",
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 8,
+            "timeStart": 26067,
+            "timeEnd": 29167,
+            "event": "ask",
+            "instance": {
+                "arg0_ins": "old man with mustaches (person 6)",
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": "gently"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 29933,
+            "timeEnd": 31833,
+            "event": "look",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "word",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 10,
+            "timeStart": 33600,
+            "timeEnd": 35333,
+            "event": "spare",
+            "instance": {
+                "arg0_ins": "old man with mustaches (person 6)",
+                "arg1_ins": "four words",
+                "arg2_ins": "word plate",
+                "arg3_ins": "card slot",
+                "arg4_ins": "geezer' hand"
+            },
+            "argM-LOC": "room",
+            "argM-EXT": "gently"
+        },
+        {
+            "clipID": 11,
+            "timeStart": 36367,
+            "timeEnd": 38600,
+            "event": "faint",
+            "instance": {
+                "arg0_ins": "fat man (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 12,
+            "timeStart": 41767,
+            "timeEnd": 42967,
+            "event": "touch",
+            "instance": {
+                "arg0_ins": "man with glasses (person 7)",
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "market",
+            "argM-EXT": "gently"
+        },
+        {
+            "clipID": 13,
+            "timeStart": 44133,
+            "timeEnd": 44767,
+            "event": "leave",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "street",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 14,
+            "timeStart": 45733,
+            "timeEnd": 49000,
+            "event": "eat",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "food",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "restaurant",
+            "argM-EXT": "heavily"
+        },
+        {
+            "clipID": 15,
+            "timeStart": 49567,
+            "timeEnd": 50700,
+            "event": "photograph",
+            "instance": {
+                "arg0_ins": null,
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "photo studio",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 16,
+            "timeStart": 50733,
+            "timeEnd": 52600,
+            "event": "lie",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "coffin",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "home",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 17,
+            "timeStart": 52633,
+            "timeEnd": 56233,
+            "event": "look",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "paper",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "fat man's home",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 18,
+            "timeStart": 57100,
+            "timeEnd": 58533,
+            "event": "surround",
+            "instance": {
+                "arg0_ins": "three men in black (person 9)",
+                "arg1_ins": "woman wearing a backless attire (person 10)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "karaoke hall",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 19,
+            "timeStart": 62400,
+            "timeEnd": 63200,
+            "event": "calculate",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "property",
+                "arg2_ins": "pen",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "home",
+            "argM-EXT": "gently"
+        },
+        {
+            "clipID": 20,
+            "timeStart": 66333,
+            "timeEnd": 69567,
+            "event": "take",
+            "instance": {
+                "arg0_ins": "man with a scarf (person 6)",
+                "arg1_ins": "bill",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": "gently"
+        },
+        {
+            "clipID": 21,
+            "timeStart": 70100,
+            "timeEnd": 71600,
+            "event": "intend",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": "news",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 22,
+            "timeStart": 73133,
+            "timeEnd": 74067,
+            "event": "inspect",
+            "instance": {
+                "arg0_ins": "policeman in a white hat (person 11)",
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": "certificate",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "street",
+            "argM-EXT": "gently"
+        },
+        {
+            "clipID": 23,
+            "timeStart": 76433,
+            "timeEnd": 82433,
+            "event": "threaten",
+            "instance": {
+                "arg0_ins": "man with the beard (person 12)",
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": "pistol",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "sala",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 24,
+            "timeStart": 83333,
+            "timeEnd": 87600,
+            "event": "escape",
+            "instance": {
+                "arg0_ins": "fat man (person 2)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": "man ",
+                "arg4_ins": "crowd"
+            },
+            "argM-LOC": "sala",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 25,
+            "timeStart": 87633,
+            "timeEnd": 91767,
+            "event": "shoot",
+            "instance": {
+                "arg0_ins": "man with the beard (person 12)",
+                "arg1_ins": "policeman in black (person 13)",
+                "arg2_ins": "pistol",
+                "arg3_ins": "hand",
+                "arg4_ins": "policeman"
+            },
+            "argM-LOC": "sala",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 26,
+            "timeStart": 91800,
+            "timeEnd": 94567,
+            "event": "escape",
+            "instance": {
+                "arg0_ins": "man with the beard (person 12)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": "sala",
+                "arg4_ins": "hallway"
+            },
+            "argM-LOC": "sala",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 27,
+            "timeStart": 94700,
+            "timeEnd": 97433,
+            "event": "stuck",
+            "instance": {
+                "arg0_ins": "fat man (person 2) and man with the beard (person 12)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": "hallway",
+                "arg4_ins": "door frame"
+            },
+            "argM-LOC": "hallway",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 28,
+            "timeStart": 98200,
+            "timeEnd": 102300,
+            "event": "roar",
+            "instance": {
+                "arg0_ins": "man with the beard (person 12)",
+                "arg1_ins": "fat man (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "hallway",
+            "argM-EXT": "heavily"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 2,
+            "endClipID": 1,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 3,
+            "endClipID": 2,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 3,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 11,
+            "endClipID": 10,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 11,
+            "startClipID": 12,
+            "endClipID": 11,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 12,
+            "startClipID": 13,
+            "endClipID": 12,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 13,
+            "startClipID": 14,
+            "endClipID": 13,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 14,
+            "startClipID": 15,
+            "endClipID": 14,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 15,
+            "startClipID": 16,
+            "endClipID": 15,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 16,
+            "startClipID": 17,
+            "endClipID": 16,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 17,
+            "startClipID": 18,
+            "endClipID": 17,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 18,
+            "startClipID": 19,
+            "endClipID": 18,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 19,
+            "startClipID": 20,
+            "endClipID": 19,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 20,
+            "startClipID": 21,
+            "endClipID": 20,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 21,
+            "startClipID": 22,
+            "endClipID": 21,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 22,
+            "startClipID": 23,
+            "endClipID": 22,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 23,
+            "startClipID": 24,
+            "endClipID": 23,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 24,
+            "startClipID": 25,
+            "endClipID": 24,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 25,
+            "startClipID": 26,
+            "endClipID": 25,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 26,
+            "startClipID": 28,
+            "endClipID": 27,
+            "relationType": "sequential"
+        }
+    ]
+}
