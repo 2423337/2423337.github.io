@@ -1,0 +1,283 @@
+{
+    "videoID": "2022-04-21 21.55.31_二战经典短片_落单的美军士兵被纳粹包围_结局却出人预料_#战争电影_#推荐电影_#二战感人故事_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 33,
+            "timeEnd": 5633,
+            "event": "aim",
+            "instance": {
+                "arg0_ins": "male soldier in gray（person 1）",
+                "arg1_ins": "male soldier with glasses（person 2）",
+                "arg2_ins": "gun",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "tensely"
+        },
+        {
+            "clipID": 2,
+            "timeStart": 5733,
+            "timeEnd": 9833,
+            "event": "stuck",
+            "instance": {
+                "arg0_ins": "male soldier with glasses（person 2）",
+                "arg1_ins": "bullet",
+                "arg2_ins": "gun",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": null,
+            "argM-EXT": null
+        },
+        {
+            "clipID": 3,
+            "timeStart": 10033,
+            "timeEnd": 12000,
+            "event": "surrender",
+            "instance": {
+                "arg0_ins": "male soldier with glasses（person 2）",
+                "arg1_ins": "male soldier in gray（person 1）",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": null,
+            "argM-EXT": null
+        },
+        {
+            "clipID": 4,
+            "timeStart": 12033,
+            "timeEnd": 14900,
+            "event": "find",
+            "instance": {
+                "arg0_ins": "male soldier in gray（person 1）",
+                "arg1_ins": "teddy bear\n",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "lenitively"
+        },
+        {
+            "clipID": 5,
+            "timeStart": 15000,
+            "timeEnd": 21100,
+            "event": "ask",
+            "instance": {
+                "arg0_ins": "male soldier in gray（person 1）",
+                "arg1_ins": "gun",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 6,
+            "timeStart": 21033,
+            "timeEnd": 25867,
+            "event": "show",
+            "instance": {
+                "arg0_ins": "male soldier in gray（person 1）",
+                "arg1_ins": "male soldier with glasses（person 2）",
+                "arg2_ins": "photo",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "gingerly"
+        },
+        {
+            "clipID": 7,
+            "timeStart": 25900,
+            "timeEnd": 28733,
+            "event": "show",
+            "instance": {
+                "arg0_ins": "male soldier with glasses（person 2）",
+                "arg1_ins": "male soldier in gray（person 1）",
+                "arg2_ins": "photo",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "gingerly"
+        },
+        {
+            "clipID": 8,
+            "timeStart": 28767,
+            "timeEnd": 32733,
+            "event": "notice",
+            "instance": {
+                "arg0_ins": "male soldier in gray（person 1）and male soldier with glasses（persono 2）",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 9,
+            "timeStart": 32900,
+            "timeEnd": 40633,
+            "event": "pretend",
+            "instance": {
+                "arg0_ins": "male soldier in gray（person 1）",
+                "arg1_ins": "male soldier with glasses（person 2）",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "rapidly"
+        },
+        {
+            "clipID": 10,
+            "timeStart": 40667,
+            "timeEnd": 47500,
+            "event": "command",
+            "instance": {
+                "arg0_ins": "man in the blue uniform（person 3）",
+                "arg1_ins": "soldiers in dark clothes（person 4）",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 11,
+            "timeStart": 47533,
+            "timeEnd": 58967,
+            "event": "debate",
+            "instance": {
+                "arg0_ins": "man in the blue uniform（person 3）and male soldier in gray（person 1）",
+                "arg1_ins": "male soldier in gray（person 1）",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 12,
+            "timeStart": 59000,
+            "timeEnd": 62600,
+            "event": "approach",
+            "instance": {
+                "arg0_ins": "soldiers in dark clothes（person 4）",
+                "arg1_ins": "male soldier in gray（person 1）",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "slowly"
+        },
+        {
+            "clipID": 13,
+            "timeStart": 62633,
+            "timeEnd": 66733,
+            "event": "pray",
+            "instance": {
+                "arg0_ins": "male soldier with glasses（person 2）",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "pleadingly"
+        },
+        {
+            "clipID": 14,
+            "timeStart": 66767,
+            "timeEnd": 72133,
+            "event": "lift",
+            "instance": {
+                "arg0_ins": "male soldier in gray（person 1）",
+                "arg1_ins": "gun",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "battlefield",
+            "argM-EXT": "reluctantly"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 3,
+            "endClipID": 1,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 2,
+            "endClipID": 3,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 2,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 9,
+            "endClipID": 7,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "conditional"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 11,
+            "endClipID": 10,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 12,
+            "endClipID": 11,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 13,
+            "endClipID": 12,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 11,
+            "startClipID": 14,
+            "endClipID": 13,
+            "relationType": "conditional"
+        }
+    ]
+}

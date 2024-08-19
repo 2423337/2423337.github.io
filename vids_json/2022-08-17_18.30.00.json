@@ -1,0 +1,232 @@
+{
+    "videoID": "2022-08-17 18.30.00_二战真实事件改编_苏联厨师仅用一把斧头_便俘获了德军坦克_#二战_#短片_#勿忘历史吾辈自强_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 0,
+            "timeEnd": 11067,
+            "event": "cook",
+            "instance": {
+                "arg0_ins": "man with white hat (person 1)",
+                "arg1_ins": "food",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "happily"
+        },
+        {
+            "clipID": 2,
+            "timeStart": 12167,
+            "timeEnd": 17500,
+            "event": "see",
+            "instance": {
+                "arg0_ins": "man with white hat (person 1)",
+                "arg1_ins": "tank",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "suddenly"
+        },
+        {
+            "clipID": 3,
+            "timeStart": 17600,
+            "timeEnd": 21367,
+            "event": "hide",
+            "instance": {
+                "arg0_ins": "man with white hat (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "suddenly"
+        },
+        {
+            "clipID": 4,
+            "timeStart": 22600,
+            "timeEnd": 26467,
+            "event": "shoot",
+            "instance": {
+                "arg0_ins": "man driving tank (person 2)",
+                "arg1_ins": "campsite",
+                "arg2_ins": "tank",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 5,
+            "timeStart": 28500,
+            "timeEnd": 34767,
+            "event": "break",
+            "instance": {
+                "arg0_ins": "man driving tank (person 2)",
+                "arg1_ins": "luncheon car",
+                "arg2_ins": "tank",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 6,
+            "timeStart": 39400,
+            "timeEnd": 45233,
+            "event": "chase",
+            "instance": {
+                "arg0_ins": "man with white hat (person 1)",
+                "arg1_ins": "tank",
+                "arg2_ins": "knife",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "calmly"
+        },
+        {
+            "clipID": 7,
+            "timeStart": 46300,
+            "timeEnd": 51233,
+            "event": "beat",
+            "instance": {
+                "arg0_ins": "man driving tank (person 2)",
+                "arg1_ins": null,
+                "arg2_ins": "tank",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "carefully"
+        },
+        {
+            "clipID": 8,
+            "timeStart": 51233,
+            "timeEnd": 57867,
+            "event": "beat",
+            "instance": {
+                "arg0_ins": "man with white hat (person 1)",
+                "arg1_ins": "tank",
+                "arg2_ins": "hammer",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "almost"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 69967,
+            "timeEnd": 80300,
+            "event": "throw",
+            "instance": {
+                "arg0_ins": "man with white hat (person 1)",
+                "arg1_ins": "tank",
+                "arg2_ins": "burning straw",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "easily"
+        },
+        {
+            "clipID": 10,
+            "timeStart": 80333,
+            "timeEnd": 90000,
+            "event": "surrender",
+            "instance": {
+                "arg0_ins": "man driving tank (person 2)",
+                "arg1_ins": "man with white hat (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": null,
+            "argM-EXT": null
+        },
+        {
+            "clipID": 11,
+            "timeStart": 90900,
+            "timeEnd": 93767,
+            "event": "talk",
+            "instance": {
+                "arg0_ins": "man with white hat (person 1)",
+                "arg1_ins": "soldiers",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside",
+            "argM-EXT": "happily"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 2,
+            "endClipID": 1,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 3,
+            "endClipID": 2,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 3,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 11,
+            "endClipID": 10,
+            "relationType": "causal"
+        }
+    ]
+}

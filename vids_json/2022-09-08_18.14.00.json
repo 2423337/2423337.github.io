@@ -1,0 +1,493 @@
+{
+    "videoID": "2022-09-08 18.14.00_流浪汉赖每天在门口不走_看完监控后_店主顿时红了眼眶__#短片_#感人故事_#乞丐报恩_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 433,
+            "timeEnd": 5033,
+            "event": "find",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man in black lying on floor(person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 2,
+            "timeStart": 5867,
+            "timeEnd": 9267,
+            "event": "scare",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 3,
+            "timeStart": 9667,
+            "timeEnd": 14667,
+            "event": "abuse",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 4,
+            "timeStart": 16067,
+            "timeEnd": 22000,
+            "event": "find",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "kindly"
+        },
+        {
+            "clipID": 5,
+            "timeStart": 22133,
+            "timeEnd": 24733,
+            "event": "expel",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": "broom",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 6,
+            "timeStart": 24967,
+            "timeEnd": 28167,
+            "event": "count",
+            "instance": {
+                "arg0_ins": "man with long hair(person 2)",
+                "arg1_ins": "bottle",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "carefully"
+        },
+        {
+            "clipID": 7,
+            "timeStart": 28500,
+            "timeEnd": 33467,
+            "event": "scare",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": "feather duster",
+                "arg3_ins": "entrance of the shop",
+                "arg4_ins": "street"
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 8,
+            "timeStart": 33800,
+            "timeEnd": 36833,
+            "event": "beg",
+            "instance": {
+                "arg0_ins": "man with long hair(person 2)",
+                "arg1_ins": "man wearing watch(person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "pitifully"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 36867,
+            "timeEnd": 39067,
+            "event": "refuse",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "in the shop",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 10,
+            "timeStart": 39167,
+            "timeEnd": 42333,
+            "event": "smell",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "in the shop",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 11,
+            "timeStart": 42367,
+            "timeEnd": 48333,
+            "event": "kick",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "heavily"
+        },
+        {
+            "clipID": 12,
+            "timeStart": 49000,
+            "timeEnd": 54567,
+            "event": "blame",
+            "instance": {
+                "arg0_ins": "woman wearing shirt(person 3)",
+                "arg1_ins": "man wearing watch(person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "loudly"
+        },
+        {
+            "clipID": 13,
+            "timeStart": 55133,
+            "timeEnd": 63067,
+            "event": "concern",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "ground",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "in the shop",
+            "argM-EXT": "unconsciously"
+        },
+        {
+            "clipID": 14,
+            "timeStart": 62500,
+            "timeEnd": 67833,
+            "event": "illustrate",
+            "instance": {
+                "arg0_ins": "woman wearing white shirt(person 4)",
+                "arg1_ins": "man wearing watch(person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "near the shop",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 15,
+            "timeStart": 68267,
+            "timeEnd": 98600,
+            "event": "check",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": "security camera",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 16,
+            "timeStart": 77467,
+            "timeEnd": 79833,
+            "event": "clean",
+            "instance": {
+                "arg0_ins": "man with long hair(person 2)",
+                "arg1_ins": "garbage",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 17,
+            "timeStart": 80367,
+            "timeEnd": 83167,
+            "event": "expel",
+            "instance": {
+                "arg0_ins": "man with long hair(person 2)",
+                "arg1_ins": "man wearing white shirt(person 5)",
+                "arg2_ins": "bottle",
+                "arg3_ins": "in person 2's hand",
+                "arg4_ins": "on person 5's head"
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 18,
+            "timeStart": 83200,
+            "timeEnd": 86767,
+            "event": "give",
+            "instance": {
+                "arg0_ins": "woman wearing shirt(person 3)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": "food",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "kindly"
+        },
+        {
+            "clipID": 19,
+            "timeStart": 89167,
+            "timeEnd": 95067,
+            "event": "prevent",
+            "instance": {
+                "arg0_ins": "man with long hair(person 2)",
+                "arg1_ins": "man wearing black hat(person 6) and man wearing red hat(person 7)",
+                "arg2_ins": null,
+                "arg3_ins": "street",
+                "arg4_ins": "entrance of the shop"
+            },
+            "argM-LOC": "near the shop",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 20,
+            "timeStart": 95533,
+            "timeEnd": 97967,
+            "event": "stab",
+            "instance": {
+                "arg0_ins": "man wearing black hat(person 6) ",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": "knife",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "heavily"
+        },
+        {
+            "clipID": 21,
+            "timeStart": 98600,
+            "timeEnd": 102200,
+            "event": "fall",
+            "instance": {
+                "arg0_ins": "man with long hair(person 2)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "entrance of the shop",
+            "argM-EXT": "painfully"
+        },
+        {
+            "clipID": 22,
+            "timeStart": 104533,
+            "timeEnd": 108633,
+            "event": "cry",
+            "instance": {
+                "arg0_ins": "man wearing watch(person 1)",
+                "arg1_ins": "man with long hair(person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "room",
+            "argM-EXT": "sadly"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 2,
+            "endClipID": 1,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 3,
+            "endClipID": 1,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 3,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 11,
+            "endClipID": 10,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 11,
+            "startClipID": 12,
+            "endClipID": 11,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 12,
+            "startClipID": 13,
+            "endClipID": 12,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 13,
+            "startClipID": 14,
+            "endClipID": 13,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 14,
+            "startClipID": 15,
+            "endClipID": 14,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 15,
+            "startClipID": 16,
+            "endClipID": 15,
+            "relationType": "inclusive"
+        },
+        {
+            "relationID": 16,
+            "startClipID": 17,
+            "endClipID": 15,
+            "relationType": "inclusive"
+        },
+        {
+            "relationID": 17,
+            "startClipID": 19,
+            "endClipID": 15,
+            "relationType": "inclusive"
+        },
+        {
+            "relationID": 18,
+            "startClipID": 20,
+            "endClipID": 15,
+            "relationType": "inclusive"
+        },
+        {
+            "relationID": 19,
+            "startClipID": 17,
+            "endClipID": 16,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 20,
+            "startClipID": 19,
+            "endClipID": 17,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 21,
+            "startClipID": 16,
+            "endClipID": 18,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 22,
+            "startClipID": 17,
+            "endClipID": 18,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 23,
+            "startClipID": 19,
+            "endClipID": 18,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 24,
+            "startClipID": 20,
+            "endClipID": 19,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 25,
+            "startClipID": 21,
+            "endClipID": 20,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 26,
+            "startClipID": 22,
+            "endClipID": 21,
+            "relationType": "causal"
+        }
+    ]
+}

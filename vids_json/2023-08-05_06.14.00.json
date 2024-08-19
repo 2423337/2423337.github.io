@@ -1,0 +1,421 @@
+{
+    "videoID": "2023-08-05 06.14.00_高分治愈电影_小和尚尝尽世间冷暖_终成一代高僧_#影视解说_#高分电影_#治愈电影_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 33,
+            "timeEnd": 3133,
+            "event": "fondle",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1)",
+                "arg1_ins": "the woman in white (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 2,
+            "timeStart": 3167,
+            "timeEnd": 9133,
+            "event": "take away",
+            "instance": {
+                "arg0_ins": "the man in black (person 3), the man in white (person 4)",
+                "arg1_ins": "a man in a monk's costume (person 1)",
+                "arg2_ins": "boat",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 3,
+            "timeStart": 9167,
+            "timeEnd": 15133,
+            "event": "leave",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1), the man in black (person 3), the man in white (person 4)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": "inside the temple",
+                "arg4_ins": "outside the temple"
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 4,
+            "timeStart": 15167,
+            "timeEnd": 21800,
+            "event": "write",
+            "instance": {
+                "arg0_ins": "a man with white hair (person 5)",
+                "arg1_ins": "word",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 5,
+            "timeStart": 21833,
+            "timeEnd": 24167,
+            "event": "unplug",
+            "instance": {
+                "arg0_ins": "a man with white hair (person 5)",
+                "arg1_ins": "wooden cork",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "boat",
+            "argM-EXT": "slowly"
+        },
+        {
+            "clipID": 6,
+            "timeStart": 24200,
+            "timeEnd": 29933,
+            "event": "die",
+            "instance": {
+                "arg0_ins": "a man with white hair (person 5)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "boat",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 7,
+            "timeStart": 29967,
+            "timeEnd": 31733,
+            "event": "swim",
+            "instance": {
+                "arg0_ins": "snake (person 6)",
+                "arg1_ins": "a man with white hair (person 5)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "river",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 8,
+            "timeStart": 31767,
+            "timeEnd": 36167,
+            "event": "return",
+            "instance": {
+                "arg0_ins": "the man in black (person 1)",
+                "arg1_ins": "temple",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "penitently"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 36200,
+            "timeEnd": 39967,
+            "event": "leave",
+            "instance": {
+                "arg0_ins": "snake (person 6)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 10,
+            "timeStart": 40000,
+            "timeEnd": 42333,
+            "event": "dig",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1)",
+                "arg1_ins": "lake surface",
+                "arg2_ins": "chisel",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "lake",
+            "argM-EXT": "slowly"
+        },
+        {
+            "clipID": 11,
+            "timeStart": 42367,
+            "timeEnd": 44633,
+            "event": "find",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1)",
+                "arg1_ins": "sarira",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "lake",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 12,
+            "timeStart": 44667,
+            "timeEnd": 52467,
+            "event": "make",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1)",
+                "arg1_ins": "ice engraving",
+                "arg2_ins": "sarira",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 13,
+            "timeStart": 52500,
+            "timeEnd": 55367,
+            "event": "visit",
+            "instance": {
+                "arg0_ins": "masked woman (person 7), a child wrapped in cloth (person 8)",
+                "arg1_ins": "temple",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 14,
+            "timeStart": 55400,
+            "timeEnd": 61567,
+            "event": "repent",
+            "instance": {
+                "arg0_ins": "masked woman (person 7)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "guiltily"
+        },
+        {
+            "clipID": 15,
+            "timeStart": 61600,
+            "timeEnd": 66367,
+            "event": "leave",
+            "instance": {
+                "arg0_ins": "masked woman (person 7)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": "inside the temple",
+                "arg4_ins": "outside the temple"
+            },
+            "argM-LOC": "outside the temple",
+            "argM-EXT": "reluctantly"
+        },
+        {
+            "clipID": 16,
+            "timeStart": 66400,
+            "timeEnd": 72233,
+            "event": "fall",
+            "instance": {
+                "arg0_ins": "masked woman (person 7)",
+                "arg1_ins": "hole",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside the temple",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 17,
+            "timeStart": 72267,
+            "timeEnd": 78100,
+            "event": "tie",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1)",
+                "arg1_ins": "stone",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "outside the sample",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 18,
+            "timeStart": 78133,
+            "timeEnd": 83000,
+            "event": "pray",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "peak",
+            "argM-EXT": "guiltily"
+        },
+        {
+            "clipID": 19,
+            "timeStart": 83033,
+            "timeEnd": 89400,
+            "event": "draw",
+            "instance": {
+                "arg0_ins": "a man in a monk's costume (person 1)",
+                "arg1_ins": "a little boy in a monk's costume (person 8)",
+                "arg2_ins": "paintbrush",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "earnestly"
+        },
+        {
+            "clipID": 20,
+            "timeStart": 89433,
+            "timeEnd": 97800,
+            "event": "torture",
+            "instance": {
+                "arg0_ins": "a little boy in a monk's costume (person 8)",
+                "arg1_ins": "frog",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "side the lake",
+            "argM-EXT": "happily"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 2,
+            "endClipID": 1,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 3,
+            "endClipID": 2,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 3,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 11,
+            "endClipID": 10,
+            "relationType": "conditional"
+        },
+        {
+            "relationID": 11,
+            "startClipID": 12,
+            "endClipID": 11,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 12,
+            "startClipID": 13,
+            "endClipID": 12,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 13,
+            "startClipID": 14,
+            "endClipID": 13,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 14,
+            "startClipID": 15,
+            "endClipID": 14,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 15,
+            "startClipID": 16,
+            "endClipID": 15,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 16,
+            "startClipID": 17,
+            "endClipID": 16,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 17,
+            "startClipID": 18,
+            "endClipID": 17,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 18,
+            "startClipID": 19,
+            "endClipID": 18,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 19,
+            "startClipID": 20,
+            "endClipID": 19,
+            "relationType": "sequential"
+        }
+    ]
+}

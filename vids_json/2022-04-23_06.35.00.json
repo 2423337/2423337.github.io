@@ -1,0 +1,277 @@
+{
+    "videoID": "2022-04-23 06.35.00_二战经典反战电影_全程没有一句台词_却让无数人泪奔_#战争电影_#二战感人故事_#勿忘历史吾辈自强_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 0,
+            "timeEnd": 10500,
+            "event": "crawl\n",
+            "instance": {
+                "arg0_ins": "the man in yellow (person1)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle\n",
+            "argM-EXT": "slowly"
+        },
+        {
+            "clipID": 2,
+            "timeStart": 10667,
+            "timeEnd": 17200,
+            "event": "frighten\n",
+            "instance": {
+                "arg0_ins": "the man with the gun (person2)",
+                "arg1_ins": "the man in yellow (person1)",
+                "arg2_ins": "gun",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "dreadfully"
+        },
+        {
+            "clipID": 3,
+            "timeStart": 17267,
+            "timeEnd": 28067,
+            "event": "deliver",
+            "instance": {
+                "arg0_ins": "the man in yellow (person1)",
+                "arg1_ins": "the man with the gun (person2)",
+                "arg2_ins": "bread",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 4,
+            "timeStart": 28167,
+            "timeEnd": 31000,
+            "event": "pick up",
+            "instance": {
+                "arg0_ins": " the man in yellow (person1)",
+                "arg1_ins": "bread",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 5,
+            "timeStart": 31167,
+            "timeEnd": 33667,
+            "event": "eat",
+            "instance": {
+                "arg0_ins": "the man in yellow (person 1)",
+                "arg1_ins": "bread",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 6,
+            "timeStart": 33833,
+            "timeEnd": 40933,
+            "event": "give",
+            "instance": {
+                "arg0_ins": "the man in yellow (person 1)",
+                "arg1_ins": "the man with the gun (person 2)",
+                "arg2_ins": "kettle",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "suddenly"
+        },
+        {
+            "clipID": 7,
+            "timeStart": 41000,
+            "timeEnd": 44833,
+            "event": "drink",
+            "instance": {
+                "arg0_ins": "the man with the gun (person 2)",
+                "arg1_ins": "water",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 8,
+            "timeStart": 50067,
+            "timeEnd": 57233,
+            "event": "take out",
+            "instance": {
+                "arg0_ins": "the man in yellow (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": "cigarettes and tobacco",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 57333,
+            "timeEnd": 60667,
+            "event": "give",
+            "instance": {
+                "arg0_ins": "the man with the gun (person 2)",
+                "arg1_ins": "the man in yellow (person 1)",
+                "arg2_ins": "matchstick",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 10,
+            "timeStart": 60833,
+            "timeEnd": 69167,
+            "event": "smoke",
+            "instance": {
+                "arg0_ins": "the man in yellow (person 1)",
+                "arg1_ins": "the man with the gun (person 2)",
+                "arg2_ins": "tobacco",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "slowly"
+        },
+        {
+            "clipID": 11,
+            "timeStart": 69200,
+            "timeEnd": 72667,
+            "event": "find",
+            "instance": {
+                "arg0_ins": "the man in yellow (person 1) and the man with the gun (person 2)",
+                "arg1_ins": "Nazi prefect",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "suddenly"
+        },
+        {
+            "clipID": 12,
+            "timeStart": 72933,
+            "timeEnd": 78100,
+            "event": "aim",
+            "instance": {
+                "arg0_ins": "the man with the gun (person 2)",
+                "arg1_ins": "the man in yellow (person 1)",
+                "arg2_ins": "gun",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "slowly"
+        },
+        {
+            "clipID": 13,
+            "timeStart": 78167,
+            "timeEnd": 83133,
+            "event": "nod",
+            "instance": {
+                "arg0_ins": "the man in yellow (person 1)",
+                "arg1_ins": "the man with the gun (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": "relievedly"
+        },
+        {
+            "clipID": 14,
+            "timeStart": 83167,
+            "timeEnd": 84833,
+            "event": "kill",
+            "instance": {
+                "arg0_ins": "the man with the gun (person 2)",
+                "arg1_ins": "the man in yellow (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "jungle",
+            "argM-EXT": null
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 3,
+            "endClipID": 2,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 12,
+            "endClipID": 10,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 13,
+            "endClipID": 12,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 14,
+            "endClipID": 13,
+            "relationType": "causal"
+        }
+    ]
+}

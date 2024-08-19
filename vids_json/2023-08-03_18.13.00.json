@@ -1,0 +1,337 @@
+{
+    "videoID": "2023-08-03 18.13.00_高分犯罪电影_黑老大找来漂亮女孩_不料其中一个竟是顶尖杀手_#影视解说_#烧脑悬疑_#犯罪电影_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 33,
+            "timeEnd": 5600,
+            "event": "arrive",
+            "instance": {
+                "arg0_ins": "a masked woman in a red dress (person 1) and a masked woman in a purple dress (person 2)",
+                "arg1_ins": "a man in the black stripes (person 3)",
+                "arg2_ins": null,
+                "arg3_ins": "outside of the presidential suite",
+                "arg4_ins": "inside of the presidential suite"
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "unwittingly"
+        },
+        {
+            "clipID": 2,
+            "timeStart": 5633,
+            "timeEnd": 10333,
+            "event": "take off",
+            "instance": {
+                "arg0_ins": "a man in the black stripes (person 3)",
+                "arg1_ins": "a woman in a purple dress (person 2)",
+                "arg2_ins": "head mask",
+                "arg3_ins": "woman's head",
+                "arg4_ins": "man's hand"
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "satisfactorily"
+        },
+        {
+            "clipID": 3,
+            "timeStart": 10367,
+            "timeEnd": 13833,
+            "event": "take off",
+            "instance": {
+                "arg0_ins": "a man in the black stripes (person 3)",
+                "arg1_ins": "a woman in a red dress (person 1)",
+                "arg2_ins": "head mask",
+                "arg3_ins": "woman's head",
+                "arg4_ins": "man's hand"
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 4,
+            "timeStart": 13867,
+            "timeEnd": 17933,
+            "event": "slap",
+            "instance": {
+                "arg0_ins": "a man in the black stripes (person 3)",
+                "arg1_ins": "a woman in a purple dress (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 5,
+            "timeStart": 17967,
+            "timeEnd": 24367,
+            "event": "abreact",
+            "instance": {
+                "arg0_ins": "a man in the black stripes (person 3)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 6,
+            "timeStart": 24400,
+            "timeEnd": 26833,
+            "event": "beg",
+            "instance": {
+                "arg0_ins": "a woman in a red dress (person 1)",
+                "arg1_ins": "a man in the black stripes (person 3)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "pitifully"
+        },
+        {
+            "clipID": 7,
+            "timeStart": 26867,
+            "timeEnd": 29100,
+            "event": "push",
+            "instance": {
+                "arg0_ins": "a man in the black stripes (person 3)",
+                "arg1_ins": "a woman in a purple dress (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": "bed"
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "optionally"
+        },
+        {
+            "clipID": 8,
+            "timeStart": 29133,
+            "timeEnd": 33733,
+            "event": "coerce",
+            "instance": {
+                "arg0_ins": "a man on the left (person 4) and a man on the right (person 5)",
+                "arg1_ins": "a woman in a red dress (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "instantaneously"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 33767,
+            "timeEnd": 51467,
+            "event": "subdue",
+            "instance": {
+                "arg0_ins": "a woman in a red dress (person 1)",
+                "arg1_ins": "a man on the left (person 4) and a man on the right (person 5)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "easily"
+        },
+        {
+            "clipID": 10,
+            "timeStart": 51500,
+            "timeEnd": 54338,
+            "event": "shoot",
+            "instance": {
+                "arg0_ins": "a man in the black stripes (person 3)",
+                "arg1_ins": "a woman in a red dress (person 1)",
+                "arg2_ins": "gun",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 11,
+            "timeStart": 54338,
+            "timeEnd": 60000,
+            "event": "hide",
+            "instance": {
+                "arg0_ins": "a woman in a red dress (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": "wall",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 12,
+            "timeStart": 60033,
+            "timeEnd": 64733,
+            "event": "subdue",
+            "instance": {
+                "arg0_ins": "a woman in a red dress (person 1)",
+                "arg1_ins": "a man in the black stripes (person 3)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "easily"
+        },
+        {
+            "clipID": 13,
+            "timeStart": 64767,
+            "timeEnd": 71300,
+            "event": "stab",
+            "instance": {
+                "arg0_ins": "a woman in a purple dress (person 2)",
+                "arg1_ins": "a man in the black stripes (person 3)",
+                "arg2_ins": "fruit knife",
+                "arg3_ins": "woman's hand",
+                "arg4_ins": "man's body"
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "decidedly"
+        },
+        {
+            "clipID": 14,
+            "timeStart": 71333,
+            "timeEnd": 80633,
+            "event": "escape",
+            "instance": {
+                "arg0_ins": "a woman in a purple dress (person 2)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "kindly"
+        },
+        {
+            "clipID": 15,
+            "timeStart": 80667,
+            "timeEnd": 88933,
+            "event": "watch",
+            "instance": {
+                "arg0_ins": "a woman in the black coat (person 1) and a man in the brown suit (person 6)",
+                "arg1_ins": "video",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "base",
+            "argM-EXT": "disappointedly"
+        },
+        {
+            "clipID": 16,
+            "timeStart": 88967,
+            "timeEnd": 94233,
+            "event": "decide",
+            "instance": {
+                "arg0_ins": "a man in the brown suit (person 6)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "base",
+            "argM-EXT": "decidedly"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 2,
+            "endClipID": 1,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 3,
+            "endClipID": 2,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 3,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 11,
+            "endClipID": 10,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 11,
+            "startClipID": 12,
+            "endClipID": 11,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 12,
+            "startClipID": 13,
+            "endClipID": 12,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 13,
+            "startClipID": 14,
+            "endClipID": 13,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 14,
+            "startClipID": 15,
+            "endClipID": 14,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 15,
+            "startClipID": 16,
+            "endClipID": 15,
+            "relationType": "sequential"
+        }
+    ]
+}

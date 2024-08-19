@@ -1,0 +1,421 @@
+{
+    "videoID": "2023-08-04 18.14.00_高分治愈电影_从小在寺庙长大的小和尚_第一次接触女孩就动了心_#影视解说_#高分电影_#治愈电影_video",
+    "clip": [
+        {
+            "clipID": 1,
+            "timeStart": 33,
+            "timeEnd": 1300,
+            "event": "sleep",
+            "instance": {
+                "arg0_ins": "a woman in white (person 2)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "slinkingly"
+        },
+        {
+            "clipID": 2,
+            "timeStart": 1333,
+            "timeEnd": 7933,
+            "event": "slap",
+            "instance": {
+                "arg0_ins": "a woman in white (person 2)",
+                "arg1_ins": "a man in gray (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "angrily"
+        },
+        {
+            "clipID": 3,
+            "timeStart": 7967,
+            "timeEnd": 12567,
+            "event": "touch",
+            "instance": {
+                "arg0_ins": "a woman in white (person 2)",
+                "arg1_ins": "a man in gray (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "actively"
+        },
+        {
+            "clipID": 4,
+            "timeStart": 12600,
+            "timeEnd": 17067,
+            "event": "pray",
+            "instance": {
+                "arg0_ins": "a man in gray (person 3)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "earnestly"
+        },
+        {
+            "clipID": 5,
+            "timeStart": 17100,
+            "timeEnd": 20500,
+            "event": "go out",
+            "instance": {
+                "arg0_ins": "a man in gray (person 3) , the little boy in gray (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": "boat",
+                "arg3_ins": "temple",
+                "arg4_ins": "outside of the temple"
+            },
+            "argM-LOC": null,
+            "argM-EXT": "troublesomely"
+        },
+        {
+            "clipID": 6,
+            "timeStart": 20533,
+            "timeEnd": 25000,
+            "event": "throw",
+            "instance": {
+                "arg0_ins": "the little boy in gray (person 1)",
+                "arg1_ins": "snake",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "mountain",
+            "argM-EXT": "solitarily"
+        },
+        {
+            "clipID": 7,
+            "timeStart": 25033,
+            "timeEnd": 30033,
+            "event": "tie",
+            "instance": {
+                "arg0_ins": "the little boy in gray (person 1)",
+                "arg1_ins": "small fish (person 4)",
+                "arg2_ins": "string and stone",
+                "arg3_ins": "boy's hand ",
+                "arg4_ins": "water"
+            },
+            "argM-LOC": "river bank",
+            "argM-EXT": "curiously"
+        },
+        {
+            "clipID": 8,
+            "timeStart": 30033,
+            "timeEnd": 34033,
+            "event": "smile",
+            "instance": {
+                "arg0_ins": "the little boy in gray (person 1)",
+                "arg1_ins": "small fish (person 4)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "river bank",
+            "argM-EXT": "happily"
+        },
+        {
+            "clipID": 9,
+            "timeStart": 34067,
+            "timeEnd": 36600,
+            "event": "see",
+            "instance": {
+                "arg0_ins": "a man in gray (person 3)",
+                "arg1_ins": "the little boy in gray (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "river bank",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 10,
+            "timeStart": 36633,
+            "timeEnd": 39267,
+            "event": "tie",
+            "instance": {
+                "arg0_ins": "a man in gray (person 3)",
+                "arg1_ins": "the little boy in gray (person 1)",
+                "arg2_ins": "string and stone",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "furtively"
+        },
+        {
+            "clipID": 11,
+            "timeStart": 39300,
+            "timeEnd": 51733,
+            "event": "teach",
+            "instance": {
+                "arg0_ins": "a man in gray (person 3)",
+                "arg1_ins": "the little boy in gray (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "seriously"
+        },
+        {
+            "clipID": 12,
+            "timeStart": 51767,
+            "timeEnd": 53533,
+            "event": "find",
+            "instance": {
+                "arg0_ins": "the little boy in gray (person 1)",
+                "arg1_ins": "small fish (person 4)",
+                "arg2_ins": null,
+                "arg3_ins": "temple",
+                "arg4_ins": "river"
+            },
+            "argM-LOC": null,
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 13,
+            "timeStart": 53567,
+            "timeEnd": 56000,
+            "event": "die",
+            "instance": {
+                "arg0_ins": "small fish (person 4)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "river",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 14,
+            "timeStart": 56033,
+            "timeEnd": 62167,
+            "event": "bury",
+            "instance": {
+                "arg0_ins": "the little boy in gray (person 1)",
+                "arg1_ins": "small fish (person 4)",
+                "arg2_ins": null,
+                "arg3_ins": "river",
+                "arg4_ins": "river bank"
+            },
+            "argM-LOC": null,
+            "argM-EXT": "repentantly"
+        },
+        {
+            "clipID": 15,
+            "timeStart": 62200,
+            "timeEnd": 71000,
+            "event": "walk",
+            "instance": {
+                "arg0_ins": "a man in gray (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "mountain trail",
+            "argM-EXT": null
+        },
+        {
+            "clipID": 16,
+            "timeStart": 71033,
+            "timeEnd": 73467,
+            "event": "meet",
+            "instance": {
+                "arg0_ins": "a man in gray (person 1)",
+                "arg1_ins": "a woman in white (person 5) , a woman in gray (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "mountain trail",
+            "argM-EXT": "coincidently"
+        },
+        {
+            "clipID": 17,
+            "timeStart": 73500,
+            "timeEnd": 77500,
+            "event": "pray",
+            "instance": {
+                "arg0_ins": "a woman in white (person 5) and a man in gray (person 3)",
+                "arg1_ins": null,
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "sincerely"
+        },
+        {
+            "clipID": 18,
+            "timeStart": 77533,
+            "timeEnd": 87033,
+            "event": "intrigue",
+            "instance": {
+                "arg0_ins": "a woman in white (person 2)",
+                "arg1_ins": "a man in gray (person 1)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "curiously"
+        },
+        {
+            "clipID": 19,
+            "timeStart": 87067,
+            "timeEnd": 93900,
+            "event": "love",
+            "instance": {
+                "arg0_ins": "a man in gray (person 1)",
+                "arg1_ins": "a woman in white (person 2)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "intermountain",
+            "argM-EXT": "slowly"
+        },
+        {
+            "clipID": 20,
+            "timeStart": 93933,
+            "timeEnd": 98967,
+            "event": "leave",
+            "instance": {
+                "arg0_ins": "a man in gray (person 1)",
+                "arg1_ins": "a man in white (person 3)",
+                "arg2_ins": null,
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "temple",
+            "argM-EXT": "mindlessly"
+        }
+    ],
+    "relation": [
+        {
+            "relationID": 1,
+            "startClipID": 2,
+            "endClipID": 1,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 2,
+            "startClipID": 3,
+            "endClipID": 2,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 3,
+            "startClipID": 4,
+            "endClipID": 3,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 4,
+            "startClipID": 5,
+            "endClipID": 4,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 5,
+            "startClipID": 6,
+            "endClipID": 5,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 6,
+            "startClipID": 7,
+            "endClipID": 6,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 7,
+            "startClipID": 8,
+            "endClipID": 7,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 8,
+            "startClipID": 9,
+            "endClipID": 8,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 9,
+            "startClipID": 10,
+            "endClipID": 9,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 10,
+            "startClipID": 11,
+            "endClipID": 10,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 11,
+            "startClipID": 12,
+            "endClipID": 11,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 12,
+            "startClipID": 13,
+            "endClipID": 12,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 13,
+            "startClipID": 14,
+            "endClipID": 13,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 14,
+            "startClipID": 15,
+            "endClipID": 14,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 15,
+            "startClipID": 16,
+            "endClipID": 15,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 16,
+            "startClipID": 17,
+            "endClipID": 16,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 17,
+            "startClipID": 18,
+            "endClipID": 17,
+            "relationType": "sequential"
+        },
+        {
+            "relationID": 18,
+            "startClipID": 19,
+            "endClipID": 18,
+            "relationType": "causal"
+        },
+        {
+            "relationID": 19,
+            "startClipID": 20,
+            "endClipID": 19,
+            "relationType": "causal"
+        }
+    ]
+}
