@@ -140,7 +140,7 @@
             "clipID": 10,
             "timeStart": 60833,
             "timeEnd": 69167,
-            "event": "give",
+            "event": "smoke",
             "instance": {
                 "arg0_ins": "the man in yellow (person 1)",
                 "arg1_ins": "the man with the gun (person 2)",

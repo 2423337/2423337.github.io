@@ -29,9 +29,9 @@
               </el-table-column>
               <el-table-column prop="event" label="Event Trigger" align="center">
               </el-table-column>
-              <el-table-column prop="timeStart" label="Start Frame" align="center">
+              <el-table-column prop="timeStart" label="Beginning Frame" align="center">
               </el-table-column>
-              <el-table-column prop="timeEnd" label="End Frame" align="center">
+              <el-table-column prop="timeEnd" label="Ending Frame" align="center">
               </el-table-column>
             </el-table>
           </div>
@@ -40,7 +40,7 @@
 
       <el-main>
         <video-player class="video-player vjs-custom-skin" ref="videoPlayer" :playsinline="true"
-          :options="playerOptions" />
+          :options="playerOptions" @timeupdate="onTimeUpdate" />
         <el-card shadow="always" style="margin: 10px 10px;">
           <div>
             <span style="font-size: 20px;">Event Detail</span>
@@ -67,9 +67,9 @@
           <div style="display: flex">
             <el-table :data="originalVideoLabel['relation']" ref="EventsRef" stripe
               :header-cell-style="{ 'text-align': 'center' }" empty-text="choose a video to show">
-              <el-table-column prop="startClipID" label="Start Clip" align="center" :formatter="startClipFormat">
+              <el-table-column prop="startClipID" label="Event A" align="center" :formatter="startClipFormat">
               </el-table-column>
-              <el-table-column prop="endClipID" label="End Clip" align="center" :formatter="endClipFormat">
+              <el-table-column prop="endClipID" label="Event B" align="center" :formatter="endClipFormat">
               </el-table-column>
               <el-table-column prop="relationType" label="Relation Type" align="center">
               </el-table-column>
@@ -115,13 +115,14 @@ export default {
           remainingTimeDisplay: false,
           fullscreenToggle: true  // 全屏按钮
         }
-      }
+      },
+      isSecondPause: false,
     }
   },
   created() {
-    const vid_list = ['2022-08-17_18.30.00', '2023-03-31_12.57.50', '2023-08-05_06.14.00',
+    const vid_list = ['2022-08-17_18.30.00', '2023-08-05_06.14.00',
       '2022-04-21_21.55.31', '2022-09-08_18.14.00', '2023-08-03_18.13.00',
-      '2022-04-23_06.35.00', '2023-03-20_13.07.22', '2023-08-04_18.14.00']
+      '2022-04-23_06.35.00', '2023-08-04_18.14.00']
     this.video_ids = (() => {
       const result = []
       vid_list.forEach(index => {
@@ -153,10 +154,10 @@ export default {
 
     },
     startClipFormat(row) {
-      return row.startClipID + ', ' + this.originalVideoLabel['clip'][row.startClipID - 1]['event'];
+      return row.endClipID + ', ' + this.originalVideoLabel['clip'][row.endClipID - 1]['event'];
     },
     endClipFormat(row) {
-      return row.endClipID + ', ' + this.originalVideoLabel['clip'][row.endClipID - 1]['event'];
+      return row.startClipID + ', ' + this.originalVideoLabel['clip'][row.startClipID - 1]['event'];
     },
     eventJump(row) {
       this.eventDetail = []
@@ -215,7 +216,20 @@ export default {
       const timeInSeconds = this.event['timeStart'] / toMillisecond;
       console.log(timeInSeconds);
       this.$refs.videoPlayer.player.currentTime(timeInSeconds);
+      this.$refs.videoPlayer.player.pause();
+      this.isSecondPause = false;
+    },
+    onTimeUpdate() {
+      var currentFrame = this.$refs.videoPlayer.player.currentTime() * 1000;
+      console.log(currentFrame);
+      console.log(this.event['timeEnd']);
 
+      if (!this.isSecondPause && currentFrame >= this.event['timeEnd']) {
+        this.$refs.videoPlayer.player.pause();
+        this.isSecondPause = true;
+        console.log(this.isSecondPause);
+
+      }
     }
   }
 };

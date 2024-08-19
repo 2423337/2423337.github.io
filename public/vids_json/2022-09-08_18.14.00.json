@@ -8,7 +8,7 @@
             "event": "find",
             "instance": {
                 "arg0_ins": "man wearing watch(person 1)",
-                "arg1_ins": "man with long hair(person 2)",
+                "arg1_ins": "man in black lying on floor(person 2)",
                 "arg2_ins": null,
                 "arg3_ins": null,
                 "arg4_ins": null
@@ -50,7 +50,7 @@
             "clipID": 4,
             "timeStart": 16067,
             "timeEnd": 22000,
-            "event": "pretend",
+            "event": "find",
             "instance": {
                 "arg0_ins": "man wearing watch(person 1)",
                 "arg1_ins": "man with long hair(person 2)",

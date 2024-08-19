@@ -124,7 +124,7 @@
         {
             "clipID": 9,
             "timeStart": 33767,
-            "timeEnd": 35333,
+            "timeEnd": 51467,
             "event": "subdue",
             "instance": {
                 "arg0_ins": "a woman in a red dress (person 1)",
@@ -138,28 +138,28 @@
         },
         {
             "clipID": 10,
-            "timeStart": 35367,
-            "timeEnd": 51467,
-            "event": "subdue",
-            "instance": {
-                "arg0_ins": "a woman in a red dress (person 1)",
-                "arg1_ins": "a group of man in black",
-                "arg2_ins": null,
-                "arg3_ins": null,
-                "arg4_ins": null
-            },
-            "argM-LOC": "presidential suite",
-            "argM-EXT": "easily"
-        },
-        {
-            "clipID": 11,
             "timeStart": 51500,
-            "timeEnd": 60000,
+            "timeEnd": 54338,
             "event": "shoot",
             "instance": {
                 "arg0_ins": "a man in the black stripes (person 3)",
                 "arg1_ins": "a woman in a red dress (person 1)",
                 "arg2_ins": "gun",
+                "arg3_ins": null,
+                "arg4_ins": null
+            },
+            "argM-LOC": "presidential suite",
+            "argM-EXT": "quickly"
+        },
+        {
+            "clipID": 11,
+            "timeStart": 54338,
+            "timeEnd": 60000,
+            "event": "hide",
+            "instance": {
+                "arg0_ins": "a woman in a red dress (person 1)",
+                "arg1_ins": null,
+                "arg2_ins": "wall",
                 "arg3_ins": null,
                 "arg4_ins": null
             },

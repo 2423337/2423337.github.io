@@ -95,7 +95,7 @@
             "clipID": 7,
             "timeStart": 29967,
             "timeEnd": 31733,
-            "event": "guard",
+            "event": "swim",
             "instance": {
                 "arg0_ins": "snake (person 6)",
                 "arg1_ins": "a man with white hair (person 5)",
@@ -170,7 +170,7 @@
             "clipID": 12,
             "timeStart": 44667,
             "timeEnd": 52467,
-            "event": "put",
+            "event": "make",
             "instance": {
                 "arg0_ins": "a man in a monk's costume (person 1)",
                 "arg1_ins": "ice engraving",
@@ -185,7 +185,7 @@
             "clipID": 13,
             "timeStart": 52500,
             "timeEnd": 55367,
-            "event": "come",
+            "event": "visit",
             "instance": {
                 "arg0_ins": "masked woman (person 7), a child wrapped in cloth (person 8)",
                 "arg1_ins": "temple",

@@ -65,7 +65,7 @@
             "clipID": 5,
             "timeStart": 15000,
             "timeEnd": 21100,
-            "event": "put away",
+            "event": "ask",
             "instance": {
                 "arg0_ins": "male soldier in gray（person 1）",
                 "arg1_ins": "gun",

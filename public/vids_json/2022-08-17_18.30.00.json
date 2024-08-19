@@ -7,7 +7,7 @@
             "timeEnd": 11067,
             "event": "cook",
             "instance": {
-                "arg0_ins": "man with white hat （person 1）",
+                "arg0_ins": "man with white hat (person 1)",
                 "arg1_ins": "food",
                 "arg2_ins": null,
                 "arg3_ins": null,
@@ -22,7 +22,7 @@
             "timeEnd": 17500,
             "event": "see",
             "instance": {
-                "arg0_ins": "man with white hat （person 1）",
+                "arg0_ins": "man with white hat (person 1)",
                 "arg1_ins": "tank",
                 "arg2_ins": null,
                 "arg3_ins": null,
@@ -37,7 +37,7 @@
             "timeEnd": 21367,
             "event": "hide",
             "instance": {
-                "arg0_ins": "man with white hat （person 1）",
+                "arg0_ins": "man with white hat (person 1)",
                 "arg1_ins": null,
                 "arg2_ins": null,
                 "arg3_ins": null,
@@ -52,7 +52,7 @@
             "timeEnd": 26467,
             "event": "shoot",
             "instance": {
-                "arg0_ins": "man driving tank （person 2）",
+                "arg0_ins": "man driving tank (person 2)",
                 "arg1_ins": "campsite",
                 "arg2_ins": "tank",
                 "arg3_ins": null,
@@ -65,9 +65,9 @@
             "clipID": 5,
             "timeStart": 28500,
             "timeEnd": 34767,
-            "event": "knock",
+            "event": "break",
             "instance": {
-                "arg0_ins": "man driving tank （person 2）",
+                "arg0_ins": "man driving tank (person 2)",
                 "arg1_ins": "luncheon car",
                 "arg2_ins": "tank",
                 "arg3_ins": null,
@@ -82,7 +82,7 @@
             "timeEnd": 45233,
             "event": "chase",
             "instance": {
-                "arg0_ins": "man with white hat （person 1）",
+                "arg0_ins": "man with white hat (person 1)",
                 "arg1_ins": "tank",
                 "arg2_ins": "knife",
                 "arg3_ins": null,
@@ -95,9 +95,9 @@
             "clipID": 7,
             "timeStart": 46300,
             "timeEnd": 51233,
-            "event": "shoot",
+            "event": "beat",
             "instance": {
-                "arg0_ins": "man driving tank （person 2）",
+                "arg0_ins": "man driving tank (person 2)",
                 "arg1_ins": null,
                 "arg2_ins": "tank",
                 "arg3_ins": null,
@@ -112,7 +112,7 @@
             "timeEnd": 57867,
             "event": "beat",
             "instance": {
-                "arg0_ins": "man with white hat （person 1）",
+                "arg0_ins": "man with white hat (person 1)",
                 "arg1_ins": "tank",
                 "arg2_ins": "hammer",
                 "arg3_ins": null,
@@ -127,7 +127,7 @@
             "timeEnd": 80300,
             "event": "throw",
             "instance": {
-                "arg0_ins": "man with white hat （person 1）",
+                "arg0_ins": "man with white hat (person 1)",
                 "arg1_ins": "tank",
                 "arg2_ins": "burning straw",
                 "arg3_ins": null,
@@ -142,8 +142,8 @@
             "timeEnd": 90000,
             "event": "surrender",
             "instance": {
-                "arg0_ins": "man driving tank （person 2）",
-                "arg1_ins": "man with white hat （person 1）",
+                "arg0_ins": "man driving tank (person 2)",
+                "arg1_ins": "man with white hat (person 1)",
                 "arg2_ins": null,
                 "arg3_ins": null,
                 "arg4_ins": null
@@ -157,7 +157,7 @@
             "timeEnd": 93767,
             "event": "talk",
             "instance": {
-                "arg0_ins": "man with white hat （person 1）",
+                "arg0_ins": "man with white hat (person 1)",
                 "arg1_ins": "soldiers",
                 "arg2_ins": null,
                 "arg3_ins": null,
