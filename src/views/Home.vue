@@ -5,9 +5,9 @@
       <el-menu-item index="/">VidEvent</el-menu-item>
 
       <el-menu-item index="/example" style="margin-left: auto;">Examples</el-menu-item>
-      <el-menu-item index="/example">Download</el-menu-item>
-      <el-menu-item index="/example">Paper</el-menu-item>
-      <el-menu-item index="/example">Code</el-menu-item>
+      <el-menu-item @click="openMessage">Download</el-menu-item>
+      <el-menu-item @click="openMessage">Paper</el-menu-item>
+      <el-menu-item @click="openMessage">Code</el-menu-item>
 
 
     </el-menu>

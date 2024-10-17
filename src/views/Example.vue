@@ -4,9 +4,9 @@
       active-text-color="#ffd04b">
       <el-menu-item index="/">VidEvent</el-menu-item>
       <el-menu-item index="/example" style="margin-left: auto;">Examples</el-menu-item>
-      <el-menu-item index="/example">Download</el-menu-item>
-      <el-menu-item index="/example">Paper</el-menu-item>
-      <el-menu-item index="/example">Code</el-menu-item>
+      <el-menu-item @click="openMessage">Download</el-menu-item>
+      <el-menu-item @click="openMessage">Paper</el-menu-item>
+      <el-menu-item @click="openMessage">Code</el-menu-item>
     </el-menu>
     <el-container>
       <el-aside width="30%">
@@ -29,9 +29,9 @@
               </el-table-column>
               <el-table-column prop="event" label="Event Trigger" align="center">
               </el-table-column>
-              <el-table-column prop="timeStart" label="Beginning Frame" align="center">
+              <el-table-column prop="timeStart" label="Beginning Time" align="center">
               </el-table-column>
-              <el-table-column prop="timeEnd" label="Ending Frame" align="center">
+              <el-table-column prop="timeEnd" label="Ending Time" align="center">
               </el-table-column>
             </el-table>
           </div>
@@ -48,7 +48,7 @@
           <div style="display: flex">
             <el-table :data="eventDetail" ref="EventsRef" stripe :header-cell-style="{ 'text-align': 'center' }"
               empty-text="choose a clip to show">
-              <el-table-column prop="argID" label="argID" align="center" width="120">
+              <el-table-column prop="argID" label="argList" align="center" width="120">
               </el-table-column>
               <el-table-column prop="value" label="value" align="center">
               </el-table-column>
@@ -136,22 +136,21 @@ export default {
     })()
   },
   methods: {
+    openMessage() {
+      this.$message('To be released soon')
+    },
     onChangeVideoId() {
       fetch(`${process.env.BASE_URL}vids_json/${this.selected_videoid}.json`)
-        // this.$axios({
-        //   method: 'GET',
-        //   url: `http://120.53.235.244:5000/api/video/${this.selected_videoid}`,
-        // }).
         .then(response => response.json())
         .then(data => {
           this.originalVideoLabel = data;
-          let vid_url = 'http://120.53.235.244:80/videos/' + this.selected_videoid + '.mp4'
-          console.log(vid_url)
-          this.playerOptions.sources[0].src = vid_url;
         }).catch(error => {
           console.error("Error fetching JSON:", error);
         });
-
+      let vid_url = `${process.env.BASE_URL}vids/${this.selected_videoid}.mp4`;
+      // let vid_url = 'http://120.53.235.244:80/videos/' + this.selected_videoid + '.mp4'
+      console.log(vid_url)
+      this.playerOptions.sources[0].src = vid_url;
     },
     startClipFormat(row) {
       return row.endClipID + ', ' + this.originalVideoLabel['clip'][row.endClipID - 1]['event'];
@@ -163,18 +162,21 @@ export default {
       this.eventDetail = []
       this.revisingEventID = row['clipID'];
       this.event = this.originalVideoLabel['clip'][row['clipID'] - 1];
+      if (this.event['meaning'] != null && this.event['meaning'] != undefined) {
+        this.eventDetail.push({ 'argID': 'event', 'value': this.event['meaning'].split('|')[0], 'meaning': this.event['meaning'].split('|')[1] })
+      }
       ['arg0_ins',
         'arg1_ins',
         'arg2_ins',
         'arg3_ins',
         'arg4_ins',
-        'argM-LOC',
-        'argM-EXT',
-        'argM-AGT',
-        'argM-PAT',
-        'argM-INS',
-        'argM-STP',
-        'argM-EDP'].forEach(argID => {
+        'ArgM-LOC',
+        'ArgM-EXT',
+        'ArgM-AGT',
+        'ArgM-PAT',
+        'ArgM-INS',
+        'ArgM-STP',
+        'ArgM-EDP'].forEach(argID => {
           let meaning = ''
           switch (argID.slice(3, 8)) {
             case '0_ins':
@@ -206,12 +208,20 @@ export default {
             default:
               break;
           }
-          const value = argID.includes('ins') ? this.event['instance'][argID] : row[argID];
-          if (value != null && value != undefined) {
+          let value = argID.includes('ins') ? this.event['instance'][argID] : row[argID];
+          if (typeof value === 'string') {
+            const parts = value.split('|');
+            if (parts.length === 2) {
+              value = parts[0].trim();
+              meaning = parts[1].trim();
+            }
+            if (argID.endsWith('_ins')) {
+              argID = argID.slice(0, -4);
+              argID = argID.charAt(0).toUpperCase() + argID.slice(1);
+            }
             this.eventDetail.push({ 'argID': argID, 'value': value, 'meaning': meaning })
           }
         })
-
       const toMillisecond = 1000;
       const timeInSeconds = this.event['timeStart'] / toMillisecond;
       console.log(timeInSeconds);
